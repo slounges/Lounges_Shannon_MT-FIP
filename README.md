@@ -1,6 +1,5 @@
 # Lounges_Shannon_MT-FIP
 
-# project-3
 
 
 ## Description
